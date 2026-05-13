@@ -1,0 +1,6 @@
+{
+    "code-runner.executorMap": {
+        "cpp": "cd $workspaceRoot && g++ src/main.cpp src/Student.cpp src/Course.cpp src/GradeCalculator.cpp src/GradeObserver.cpp src/FileManager.cpp src/ReportGenerator.cpp -Iinclude -o bin/main && bin/main"
+    },
+    "code-runner.runInTerminal": true
+}
