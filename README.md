@@ -1,4 +1,4 @@
-# Student Grade Calculator | Author [SYED NOKHAIZ AL HASSAN] | APP DEVELOPER | University of Gujrat
+# Student Grade Management System
 
 ## Project Overview
 A comprehensive C++ application for managing student grades, calculating GPA/CGPA, and generating academic reports. This project demonstrates professional software engineering practices including **Object-Oriented Programming (OOP)**, **SOLID principles**, and **Design Patterns**.
@@ -235,11 +235,32 @@ change grading       → Switch grading strategy
 ## License
 Educational Use Only
 
+MIT License
+
+Copyright (c) 2026 Syed Nokhaiz Al Hassan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 ## Support
 For questions or issues, refer to the included documentation files:
 - `Project_Documentation.docx` - Detailed explanation
 - `Project_Presentation.pptx` - Visual presentation
-
 ---
 
 **Happy Learning! 🎓**
